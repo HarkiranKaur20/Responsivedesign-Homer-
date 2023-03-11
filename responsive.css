@@ -1,0 +1,55 @@
+@media only screen and (min-width: 1601px) {
+    .Responsive1 {
+        background: url("homer.jpg") 0px 0px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (min-width: 1401px) and (max-width: 1600px) {
+    .Responsive1 {
+        background: url("homer.jpg") -312.5px 0px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1400px) {
+    .Responsive1 {
+        background: url("homer.jpg") 0px -312.5px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1200px) {
+    .Responsive1 {
+        background: url("homer.jpg") -312.5px -312.5px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1000px) {
+    .Responsive1 {
+        background: url("homer.jpg") 0px -312.5px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+    .Responsive1 {
+        background: url("homer.jpg") -312.5px 0px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .Responsive1 {
+        background: url("homer.jpg") 0px 0px;
+        width: 312.5px;
+        height: 312.5px;
+    }
+}
